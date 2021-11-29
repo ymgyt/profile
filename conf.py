@@ -138,7 +138,7 @@ latex_elements = {
 
 latex_docclass = {'manual': 'jsbook'}
 
-latex_engine = 'uplatex'
+latex_engine = 'platex'
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
